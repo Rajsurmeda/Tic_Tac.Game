@@ -77,5 +77,3 @@ Please fork, create a branch, and open a PR with clear notes.
 -"-"
 
 This is yet another introduction to linear algebra and optimization. It is commonplace for introductory books on these topics to emphasize the direct application of these methods to real world problems. Unfortunately, this is usually done without a rigorous derivation of the underlying theory. In fact, many presentations are simply code translations of math derivations.
-
-MIT License ``` It is faster and easier than traveling through large cities, which have heavy traffic and disorganized public transportation. ## ???? Contact Owner: <your-name> (@your-username) — add email or GitHub handle here. --- Happy coding! If you want, I can also: * create a GitHub-ready repo with files & a `.gitignore` * add a GitHub Actions workflow to compile and run tests * provide a short README badge with build status or live demo information Tell me which, and I'll create it for you.
