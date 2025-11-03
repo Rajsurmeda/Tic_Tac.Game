@@ -1,4 +1,4 @@
-# Tic-Tac-Toe AI — C++ Single-File Project
+# Tic-Tac-Toe AI — C++ Project
 
 A compact, command-line version of Tic-Tac-Toe in C++, featuring an unbeatable AI using Minimax with alpha-beta pruning. This is ideal for learning game AI, practicing C++, or adding to your GitHub portfolio.
 
